@@ -22,7 +22,7 @@ def home(name):
 
 
 
-if __name__ == "__main__":
-  appFlask.run(debug=False)
+# if __name__ == "__main__":
+#   appFlask.run(debug=False)
 
 
