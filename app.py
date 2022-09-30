@@ -13,11 +13,6 @@ def home(name):
 
 
 if __name__ == "__main__":
-  appFlask.run(debug=True)
-
-
-
-if __name__=='__main__':
-    appFlask.run(debug=True)
+  appFlask.run(debug=False)
 
 
